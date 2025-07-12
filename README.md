@@ -23,7 +23,7 @@ Ce document décrit les étapes nécessaires pour configurer et utiliser un écr
 #include <Adafruit_GFX.h>        // Fonctions graphiques (dessin, texte, etc.)
 #include <Adafruit_SSD1306.h>    // Contrôle de l'écran OLED
 ```
-[Comprendre la bibliothèque Wire (I2C)] (https://www.locoduino.org/spip.php?article77)
+[Comprendre la bibliothèque Wire (I2C)](https://www.locoduino.org/spip.php?article77)
 
 
 ## Étape 2 : Définir les broches, l'adresse I2C et les dimensions de l'écran
